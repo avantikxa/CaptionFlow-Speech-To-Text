@@ -1,8 +1,8 @@
-# Phoneme Driven Text-To-Speech Model
+# Phoneme Driven Speech to Text Model
 
 ## Overview
 
-This project focuses on building a phoneme-driven Text-To-Speech model. The model is designed to convert word pronunciations to phonetic representations, a crucial step in Text-to-Speech synthesis. The process involves converting lexical orthographic symbols (words) to phonetic sequences.
+This project focuses on building a phoneme-driven Text-To-Speech model. The model is designed to convert word pronunciations to phonetic representations, a crucial step in Speech To Text synthesis. The process involves converting lexical orthographic symbols (words) to phonetic sequences.
 
 ## Project Structure
 
